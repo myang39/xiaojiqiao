@@ -6,7 +6,7 @@ Small techniques that better to be memorized
   ```
   $ lsof -i tcp:3000
   ```
-  在return一堆东西 找到一种的 PID (process identifier)
+  在return一堆东西 找到 PID (process identifier)
   
   step2: 
   ```
